@@ -18,6 +18,7 @@ How to attempt this challenge:
 You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
 
 ## Solutions
+```
 git clone
 cd repo
 git pull
@@ -34,3 +35,4 @@ git rebase --continue
 git checkout master
 git rebase add-reverse
 git log
+```
